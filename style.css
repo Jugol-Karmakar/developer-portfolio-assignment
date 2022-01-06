@@ -98,29 +98,6 @@ p {
 }
 
 /* develop section  */
-#develop-width {
-  margin-top: 20px;
-  margin-left: -15%;
-}
-
-.global {
-  width: 50%;
-  padding-left: 5%;
-}
-
-.global img {
-  width: 65%;
-  margin-left: 30px;
-}
-
-.Corona-area {
-  text-align: center;
-  margin-right: 20px;
-}
-
-.corna-header {
-  font-family: "Poppins", sans-serif;
-}
 
 footer {
   color: #fff;
