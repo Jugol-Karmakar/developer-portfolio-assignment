@@ -1,0 +1,104 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: "Domine", serif;
+  padding-left: 10px;
+}
+
+.top-border {
+  border-left: 3px solid tomato;
+  height: 26%;
+}
+
+p {
+  padding-right: 10px;
+}
+
+.orange-color {
+  color: orange;
+}
+
+.flexible-container {
+  display: flex;
+  margin-bottom: 150px;
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+
+#left-side {
+  margin-top: 5%;
+}
+
+.half-width img {
+  width: 65%;
+}
+
+.link-button {
+  text-decoration: none;
+  padding: 10px 40px;
+  color: #fff;
+  background-color: tomato;
+  border-radius: 10px;
+}
+
+.last-para {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+/* mission-area */
+
+.mission-area {
+  width: 75%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.mission-area h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.mission-item {
+  width: 30%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 25px;
+  text-align: left;
+}
+
+.mission-item img {
+  width: 45%;
+}
+
+#mission {
+  background-color: #cddeff;
+  border-radius: 20px;
+}
+#vission {
+  background-color: #fee3ec;
+  border-radius: 20px;
+}
+
+#goals {
+  background-color: #fffcdc;
+  border-radius: 20px;
+}
+
+/* develop section  */
+
+.develop {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.develop img {
+  width: 65%;
+}
