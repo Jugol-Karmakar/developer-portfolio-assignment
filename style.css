@@ -98,6 +98,23 @@ p {
 }
 
 /* develop section  */
+#dev-area {
+  margin-left: -15%;
+  margin-right: 20px;
+}
+
+#global-img {
+  margin-left: 40px;
+}
+
+.corna-header {
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+#corona-item {
+  margin-left: -15%;
+}
 
 footer {
   color: #fff;
