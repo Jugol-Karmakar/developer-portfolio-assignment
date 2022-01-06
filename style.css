@@ -14,6 +14,11 @@ h1 {
   height: 26%;
 }
 
+h2 {
+  font-size: 30px;
+  font-weight: 700;
+}
+
 p {
   padding-right: 10px;
 }
@@ -93,12 +98,42 @@ p {
 }
 
 /* develop section  */
-
-.develop {
-  padding-left: 5%;
-  padding-right: 5%;
+#develop-width {
+  margin-top: 20px;
+  margin-left: -15%;
 }
 
-.develop img {
+.global {
+  width: 50%;
+  padding-left: 5%;
+}
+
+.global img {
   width: 65%;
+  margin-left: 30px;
+}
+
+.Corona-area {
+  text-align: center;
+  margin-right: 20px;
+}
+
+.corna-header {
+  font-family: "Poppins", sans-serif;
+}
+
+footer {
+  color: #fff;
+  padding-top: 20px;
+  height: 180px;
+  background-color: #112031;
+  text-align: center;
+}
+
+.tomato {
+  color: tomato;
+}
+
+footer p {
+  font-size: 14px;
 }
