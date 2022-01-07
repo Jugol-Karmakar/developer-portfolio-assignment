@@ -122,9 +122,7 @@ p {
   font-style: italic;
   font-weight: 700;
   margin-top: -3%;
-  background: linear-gradient(rgb(117, 7, 241), rgb(245, 10, 10));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #6e3cbc;
 }
 
 .para {
